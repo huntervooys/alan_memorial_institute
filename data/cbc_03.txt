@@ -1,10 +1,12 @@
 ---
-title: "Old Royal Victoria Hospital Project Remains"
-author: "cbc news"
-publisher: "cbc"
-source: "https://www.cbc.ca/news/canada/montreal/old-royal-victoria-hospital-project-remains-1.6463685"
-summary: "This article discusses the ongoing project at the old Royal Victoria Hospital and its current status."
-tags: ["news", "corporate"]
+title: Old Royal Victoria Hospital Project Remains
+author: cbc news
+publisher: cbc
+URL: https://www.cbc.ca/news/canada/montreal/old-royal-victoria-hospital-project-remains-1.6463685
+summary: This article discusses the ongoing project at the old Royal Victoria Hospital and its current status.
+tags: 
+    - news
+    - corporate
 ---
 Montreal's public consultation office is recommending that McGill University's plans to redevelop part of the former Royal Victoria Hospital move forward, but not without some key changes. 
 A report released Tuesday by the Office de consultation publique de Montréal (OCPM) outlined 31 recommendations for the $700-million project to transform part of the hospital into an academic centre.

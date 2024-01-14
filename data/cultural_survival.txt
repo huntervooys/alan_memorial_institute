@@ -1,10 +1,12 @@
 ---
-title: "Trial on Unceded Land: Smoke Screens vs Centuries of Resistance"
-author: "Take Back Tekanontak Committee"
-publisher: "Cultural Survival"
-source: "https://www.culturalsurvival.org/news/trial-unceded-land-smoke-screens-vs-centuries-resistance"
-summary: "This article discusses the ongoing trial on unceded land, highlighting the contrast between deceptive tactics and centuries of indigenous resistance."
-tags: ["news", "indigenous"]
+title: Trial on Unceded Land Smoke Screens vs Centuries of Resistance
+author: Take Back Tekanontak Committee
+publisher: Cultural Survival
+URL: https://www.culturalsurvival.org/news/trial-unceded-land-smoke-screens-vs-centuries-resistance
+summary: This article discusses the ongoing trial on unceded land, highlighting the contrast between deceptive tactics and centuries of indigenous resistance.
+tags: 
+    - news
+    - indigenous
 ---
 Despite an ongoing injunction in court by the kanien’kehá:ka kahnistensera (Mohawk Mothers) against McGill University, Société des Infrastructure du Québec, ville de Montréal, et al. archeological excavation on sacred Indigenous sites have begun Tuesday, October 10, 2022. McGill refuses to follow the guidelines developed by the Truth and Reconciliation Commission (TRC) and by archaeologists engaged in searching for unmarked graves since the first findings in Tk’emlúps in 2021. As stated by these, “any work to locate missing Indigenous children must be led by Indigenous communities.” The upcoming intervention at the Royal Victoria Hospital is not led by Indigenous people, but rather by development promoters and a private firm they hired. 
 Since then, a temporary occupation by settler anarchists took place, the offices of Arkéos were vandalized by people claiming to act on behalf of the Mohawk Mothers (the action was condemned by the Mohawk Mothers and the solidarity committee), and a vigil by Divest McGill was held, surrounded by more police then there were citizens. Tensions are high in an extremely important case for Indigenous sovereignty on the island of Tiohtià:ke. The court hearing will be held on October 26, 2022, at the Montréal court. In order to better understand the situation, let us look back at the situation and how the tensions on Tiohtià:ke have built up since the Pope’s visit in July. 

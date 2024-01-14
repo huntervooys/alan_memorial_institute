@@ -1,10 +1,12 @@
 ---
-title: "indigenous-women-lead-protest-calling-for-removal-of-cross-on-mount-royal"
-author: "max harrold"
-publisher: "ctv news"
-URL: "https://montreal.ctvnews.ca/indigenous-women-lead-protest-calling-for-removal-of-cross-on-mount-royal-1.6005108"
-summary: ""
-tags: ["news", "corporate"]
+title: indigenous-women-lead-protest-calling-for-removal-of-cross-on-mount-royal
+author: max harrold
+publisher: ctv news
+URL: https://montreal.ctvnews.ca/indigenous-women-lead-protest-calling-for-removal-of-cross-on-mount-royal-1.6005108
+summary: 
+tags: 
+    - news
+    - corporate
 ---
 A group of Indigenous women staged a protest on Mount-Royal Wednesday against Pope Francis' historic visit to Canada.
 The group, known as the Mohawk Mothers, said an apology for residential schools is an insult and what they want instead is action.

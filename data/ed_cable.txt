@@ -1,10 +1,12 @@
 ---
-title: "Mothers Force Royal Vic Dig Halt"
-author: "Eve Cable"
-publisher: "eastern door"
-source: "https://easterndoor.com/2022/10/28/mothers-force-royal-vic-dig-halt/"
-summary: "This article discusses how mothers have managed to halt the digging at the Royal Vic site."
-tags: ["news", "indigenous"]
+title: Mothers Force Royal Vic Dig Halt
+author: Eve Cable
+publisher: eastern door
+URL: https://easterndoor.com/2022/10/28/mothers-force-royal-vic-dig-halt/
+summary: This article discusses how mothers have managed to halt the digging at the Royal Vic site.
+tags: 
+    - news
+    - indigenous
 ---
 As the Kanien’kehá:ka Kahnistensera (Mohawk Mothers) close out two days in Quebec’s Superior Court this week, a judge has ruled that the archaeological firm Arkéos must stop digging at the Royal Victoria Hospital site so investigations into the possibility of unmarked graves can take place.
 The Kahnistensera called six defendants to court regarding the excavations – including McGill University and the Attorney General of Canada – which the judge ruled must be paused so that discussion can be meaningfully facilitated between the Mothers and those responsible for the excavation site.

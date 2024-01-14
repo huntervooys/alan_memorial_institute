@@ -1,10 +1,12 @@
 ---
-title: "dogs-find-evidence-of-human-remains-at-site-of-montreal-s-old-royal-victoria-hospital"
-author: "joe lofaro"
-publisher: "ctv news"
-URL: "https://montreal.ctvnews.ca/search-dogs-find-evidence-of-human-remains-at-site-of-montreal-s-old-royal-victoria-hospital-1.6462031"
-summary: ""
-tags: ["news", "corporate"]
+title: dogs-find-evidence-of-human-remains-at-site-of-montreal-s-old-royal-victoria-hospital
+author: joe lofaro
+publisher: ctv news
+URL: https://montreal.ctvnews.ca/search-dogs-find-evidence-of-human-remains-at-site-of-montreal-s-old-royal-victoria-hospital-1.6462031
+summary: 
+tags: 
+    - news
+    - corporate
 ---
 Cadaver dogs conducting a search on the grounds of the Old Royal Victoria Hospital in Montreal have discovered evidence of human remains, according to a new report.
 A group of Indigenous elders alleges that the site contains unmarked graves of Indigenous children who died as a result of mind-control experiments that took place in the 1950s and 1960s at a psychiatric institute affiliated with the former hospital.

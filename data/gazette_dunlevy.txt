@@ -1,10 +1,11 @@
 ---
-title: "McGill's Royal Vic plans prompt call to check for unmarked graves"
-author: "T'Cha Dunlevy"
-publisher: "montreal gazette"
-source: "https://montrealgazette.com/news/local-news/mcgills-royal-vic-plans-prompt-call-to-check-for-unmarked-graves"
-summary: "This article discusses the call for McGill University to check for unmarked graves at the Royal Victoria Hospital site, in light of their redevelopment plans."
-tags: ["news"]
+title: McGill's Royal Vic plans prompt call to check for unmarked graves
+author: T'Cha Dunlevy
+publisher: montreal gazette
+URL: https://montrealgazette.com/news/local-news/mcgills-royal-vic-plans-prompt-call-to-check-for-unmarked-graves
+summary: This article discusses the call for McGill University to check for unmarked graves at the Royal Victoria Hospital site, in light of their redevelopment plans.
+tags: 
+    - news
 ---
 A group called the Mohawk Mothers (kanien’kehá:ka kahnistensera) is demanding “the immediate suspension” of McGill University’s expansion plan for the old Royal Victoria Hospital site, and an investigation into the possibility there could be unmarked graves of Indigenous children there.
 The group claims to have recently interviewed Lana Ponting, an 80-year-old woman who says she was subjected to psychiatric experiments by Dr. Donald Ewen Cameron at McGill’s Allan Memorial Institute, in April 1958, at the age of 16. The woman reportedly said there were many Indigenous children at the Institute, and also that there were rumoured to be bodies buried around the premises, including near the Henry William Morgan Pool.

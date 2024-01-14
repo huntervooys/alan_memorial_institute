@@ -1,10 +1,12 @@
 ---
-title: "Archeological Dig at Old Montreal Hospital on Hold by McGill University"
-author: "Emelia Fournier"
-publisher: "aptn news"
-source: "https://www.aptnnews.ca/national-news/archeological-dig-old-montreal-hospital-on-hold-mcgill-university/"
-summary: "This article reports on the temporary halt of an archeological dig at an old Montreal hospital by McGill University."
-tags: ["news", "indigenous"]
+title: Archeological Dig at Old Montreal Hospital on Hold by McGill University
+author: Emelia Fournier
+publisher: aptn news
+URL: https://www.aptnnews.ca/national-news/archeological-dig-old-montreal-hospital-on-hold-mcgill-university/
+summary: This article reports on the temporary halt of an archeological dig at an old Montreal hospital by McGill University.
+tags: 
+    - news
+    - indigenous
 ---
 A spokesperson for the Mohawk Mothers, or Kahnistensera, says the group feels pushed aside in the search for unmarked graves on a site owned by Société Québécoise des Infrastructures, or SQI. McGill says it leases part of the property.
 “The process can no longer by any means be considered Indigenous-led, as the SQI and McGill attempt to control the whole process, reducing the role of Indigenous people to performing ceremonies on the site,” said Kahentinetha, one of the Mothers who added that they feel blindsided by the communications that happened without consulting them.

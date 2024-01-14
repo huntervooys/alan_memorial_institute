@@ -1,10 +1,12 @@
 ---
-title: "cadaver-dogs-sniff-out-potential-human-remains-near-old-royal-victoria-hospital-site"
-author: "Emelia Fournier"
-publisher: "aptn news"
-URL: "https://www.aptnnews.ca/national-news/cadaver-dogs-sniff-out-potential-human-remains-near-old-royal-victoria-hospital-site/"
-summary: ""
-tags: ["news", "indigenous"]
+title: cadaver-dogs-sniff-out-potential-human-remains-near-old-royal-victoria-hospital-site
+author: Emelia Fournier
+publisher: aptn news
+URL: https://www.aptnnews.ca/national-news/cadaver-dogs-sniff-out-potential-human-remains-near-old-royal-victoria-hospital-site/
+summary: 
+tags: 
+    - news
+    - indigenous
 ---
 Cadaver dogs have detected potential human remains on McGill University grounds where a group called the Mohawk Mothers believe unmarked graves exist.
 On June 9, 2023, three cadaver dog teams from the Ottawa Valley Search and Rescue Dog Association scoured the grounds under the supervision of archeologists, dog handlers and two Kanieke’haka cultural monitors.

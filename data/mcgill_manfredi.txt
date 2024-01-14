@@ -1,10 +1,11 @@
 ---
-title: "Concern About Recent Actions"
-author: "Christopher Manfredi"
-publisher: "McGill University"
-source: "concern_about_recent_actions.txt"
-summary: "This is an email from McGill University's Provost and Vice-Principal (Academic), Christopher Manfredi, addressing recent actions and concerns."
-tags: ["mcgill"]
+title: Concern About Recent Actions
+author: Christopher Manfredi
+publisher: McGill University
+URL: concern_about_recent_actions.txt
+summary: This is an email from McGill University's Provost and Vice-Principal (Academic), Christopher Manfredi, addressing recent actions and concerns.
+tags: 
+    - mcgill
 ---
 Following up on the last update I provided about the work being conducted on the former Royal Victoria Hospital site, ground penetrating radar work was performed in priority areas of the site, as established  by the Settlement Agreement, a legally binding agreement we entered into last April with the Kanien’keha:ka Kahnistensera, also known as the Mohawk Mothers, and the Société québécoise des infrastructures (SQI), which is responsible for redeveloping the site.
 The company conducting the work stated in a report summarizing its findings that no “likely” grave type features was identified across the site. However, “[i]n total, nine (9) geophysical signatures were identified across the site that display attributes allowing us to categorize them as “potential” grave type features.” These nine signatures are all outside the McGill project zone, which accounts for about 15 per cent of the entire site.

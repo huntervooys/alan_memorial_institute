@@ -1,10 +1,11 @@
 ---
-title: "Mohawk Mothers Want Former Montreal Hospital Site Searched for Unmarked Graves"
-author: "Montreal Gazette"
-publisher: "Montreal Gazette"
-source: "https://montrealgazette.com/news/local-news/mohawk-mothers-want-former-montreal-hospital-site-searched-for-unmarked-graves"
-summary: "This article discusses a petition from Ellen Atkin, who wants the former Montreal hospital site to be searched for unmarked graves."
-tags: ["news"]
+title: Mohawk Mothers Want Former Montreal Hospital Site Searched for Unmarked Graves
+author: Montreal Gazette
+publisher: Montreal Gazette
+URL: https://montrealgazette.com/news/local-news/mohawk-mothers-want-former-montreal-hospital-site-searched-for-unmarked-graves
+summary: This article discusses a petition from Ellen Atkin, who wants the former Montreal hospital site to be searched for unmarked graves.
+tags: 
+    - news
 ---
 The group behind the recent push to search for unmarked graves at the site of the former Royal Victoria Hospital now hopes to suspend the sale of another former Montreal hospital to allow for the grounds to be searched.
 In a statement issued Tuesday, the Mohawk Mothers (kanien’kehá:ka kahnistensera) said it has sent a formal notice to the city of Montreal and Quebec government concerning the sale of the former Hôpital de la Miséricorde.

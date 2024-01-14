@@ -1,10 +1,12 @@
 ---
-title: "Mohawk Mothers Win Injunction"
-author: "cbc"
-publisher: "cbc"
-source: "https://www.cbc.ca/news/canada/montreal/mohawk-mothers-win-injunction-1.6632734"
-summary: "This article reports on the victory of Mohawk mothers who won an injunction in a significant legal case."
-tags: ["news", "corporate"]
+title: Mohawk Mothers Win Injunction
+author: cbc
+publisher: cbc
+URL: https://www.cbc.ca/news/canada/montreal/mohawk-mothers-win-injunction-1.6632734
+summary: This article reports on the victory of Mohawk mothers who won an injunction in a significant legal case.
+tags: 
+    - news
+    - corporate
 ---
 A Quebec Superior Court judge has granted an emergency injunction to stop excavation work on the old Royal Victoria Hospital site in Montreal as requested by a group of Kanien'kehá:ka elders.
 The group, called the Kanien'kehá:ka kahnistensera (Mohawk Mothers), believes there may be unmarked graves of Indigenous people, including children, on or near the site following CIA-funded brainwashing experiments in the 1950s and 1960s.
