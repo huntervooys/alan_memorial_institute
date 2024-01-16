@@ -1,10 +1,12 @@
 ---
-title = "indigenous-group-calls-out-papal-apology-calling-it-meaningless"
-author: "brittany henriques"
-publisher: "city news"
-URL: "https://montreal.citynews.ca/2022/07/27/indigenous-group-calls-out-papal-apology-calling-it-meaningless/"
-summary: ""
-tags: ["news", "corporate"]
+title: indigenous-group-calls-out-papal-apology-calling-it-meaningless
+author: brittany henriques
+publisher: city news
+URL: https://montreal.citynews.ca/2022/07/27/indigenous-group-calls-out-papal-apology-calling-it-meaningless/
+summary: 
+tags: 
+    - news
+    - corporate
 ---
 “If everybody thought that was a solution, that apology they all would’ve been there. There’s no way you could drag me there,” said Mohawk Mother Kwetiio.
 An Indigenous group is calling out the Catholic church and the Pope’s visit calling his apology unwanted and meaningless without action.

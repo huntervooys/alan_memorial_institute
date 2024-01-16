@@ -1,10 +1,12 @@
 ---
-title: "Royal Victoria Hospital Plans Approval"
-author: "Phil Carpenter"
-publisher: "Global News"
-source: "https://globalnews.ca/news/8866520/royal-victoria-hospital-plans-approval/"
-summary: "This article discusses the approval of the plans for the Royal Victoria Hospital."
-tags: ["news", "corporate"]
+title: Royal Victoria Hospital Plans Approval
+author: Phil Carpenter
+publisher: Global News
+URL: https://globalnews.ca/news/8866520/royal-victoria-hospital-plans-approval/
+summary: This article discusses the approval of the plans for the Royal Victoria Hospital.
+tags: 
+    - news
+    - corporate
 ---
 The former Royal Victoria Hospital site is one step closer to becoming a McGill University research facility, following hearings last September by the L’Office de consultation publique de Montréal (OCPM)
 In its lengthy report, the office makes 31 recommendations addressing some of the concerns brought forward by various groups.

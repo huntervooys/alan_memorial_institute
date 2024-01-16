@@ -1,10 +1,12 @@
 ---
-title: "Mohawk Mothers Win Injunction Against McGill at David and Goliath Hearing"
-author: "emelia fournier"
-publisher: "aptn news"
-source: "https://www.aptnnews.ca/national-news/mohawk-mothers-win-injunction-against-mcgill-at-david-and-goliath-hearing/"
-summary: "This article reports on the victory of Mohawk mothers who won an injunction against McGill University in a significant legal hearing."
-tags: ["news", "indigenous"]
+title: Mohawk Mothers Win Injunction Against McGill at David and Goliath Hearing
+author: emelia fournier
+publisher: aptn news
+URL: https://www.aptnnews.ca/national-news/mohawk-mothers-win-injunction-against-mcgill-at-david-and-goliath-hearing/
+summary: This article reports on the victory of Mohawk mothers who won an injunction against McGill University in a significant legal hearing.
+tags: 
+    - news
+    - indigenous
 ---
 The Mohawk Mothers, or Kanien’kehà:ka Kanistansera, obtained a temporary injunction against McGill University to stop the renovation and excavation of a hospital where group says unmarked graves are located.
 “I feel like I just had a new baby, I do, because I feel like we’re closer to having our future generations heard, our past generations heard, and whatever has happened to our children, that they have purpose,” said Kwetiio, one of the Mothers.

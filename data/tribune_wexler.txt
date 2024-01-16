@@ -1,9 +1,12 @@
 ---
-author: "benjamin wexler"
-publisher: "the tribune"
-source: "https://www.thetribune.ca/news/kahentinethas-challenge-to-mcgills-new-vic-project02112021/"
-summary: ""
-tags: ["news", "student"]
+title: kahentinethas-challenge-to-mcgills-new-vic-project
+author: benjamin wexler
+publisher: the tribune
+URL: https://www.thetribune.ca/news/kahentinethas-challenge-to-mcgills-new-vic-project02112021/
+summary: 
+tags: 
+    - news 
+    - student
 ---
 Kahentinetha, a Kanien’kehá:ka kahnistensera (Mohawk Mother) of the Bear Clan and founder of Mohawk Nation News, is demanding the suspension of McGill’s New Vic project. In a brief posted to the Mohawk Nation News website, Kahentinetha called on McGill to acknowledge Indigenous sovereignty and to allow an investigation team—comprised of a surveyor, geologist, search dog, all guided by GeoView Pro software—to search for unmarked graves she suspects may be on the project site.
 In the Mohawk Nation News post, Kahentinetha argued that because the Royal Victoria Hospital site sits on unceded Kanien’kehá:ka territory, the kaia’nere:kowa (The Great Law of Peace), pre-colonial Mohawk law,  applies. Under this law, the Kanien’kehá:ka kahnistensera are caretakers of the land, and all decisions regarding it must be made with their consent. Additionally, Kahentinetha claimed that the Canadian government held money from the Iroquois Trust Fund, loaned it to McGill Universityin 1847, and never paid it back. 

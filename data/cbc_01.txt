@@ -1,10 +1,12 @@
 ---
-title: "Mohawk Mothers at Royal Vic Site"
-author: "cbc"
-publisher: "cbc"
-source: "https://www.cbc.ca/news/canada/montreal/mohawk-mothers-royal-vic-site-1.6817301"
-summary: "This article discusses the involvement of Mohawk mothers at the Royal Vic site."
-tags: ["news", "corporate"]
+title: Mohawk Mothers at Royal Vic Site
+author: cbc
+publisher: cbc
+URL: https://www.cbc.ca/news/canada/montreal/mohawk-mothers-royal-vic-site-1.6817301
+summary: This article discusses the involvement of Mohawk mothers at the Royal Vic site.
+tags: 
+    - news
+    - corporate
 ---
 The Kanien'kehá:ka elders known as the Mohawk Mothers have reached a deal with the province to ensure archaeological excavations will take place on the site of the former Royal Victoria Hospital in Montreal, where there are believed to be unmarked graves of Indigenous people, including children.
 "This is absolutely a first in Canada for setting a precedent for how Indigenous people can work with the oppressor," said Julian Falconer, the lawyer for Canada's special interlocutor on missing children and unmarked graves.
