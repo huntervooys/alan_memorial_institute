@@ -1,17 +1,69 @@
 library(tidyverse)
+library(readr)
+library(yaml)
 
 files <- list.files(path = "documents", full.names = TRUE)
 
-data <- list()
+meta <- list()
+docs <- list()
 
 for (file in files) {
-    content <- readLines(file)
+    content <- read_lines(file)
+    metadata <- yaml.load(content)
+    tags <- metadata$tags
 
-    yaml_start <- which(content == "---")
-    yaml_end <- which(content == "...")
-    content <- content[(yaml_start+1):(yaml_end-1)]
+    if ("indigenous" %in% tags) {
+        indigenous <- "indigenous"
+    } else {
+        indigenous <- "non-indigenous"
+    }
 
-    metadata <- yaml::yaml.load(paste(content, collapse = "\n"))
+    document <- paste(content[9:length(content)], collapse = " ")
 
-    data[[file]] <- metadata
+    tags <- metadata$tags
+
+    meta[[file]] <- indigenous
+    docs[[file]] <- document
+
+    print(indigenous)
+    #print(document)
 }
+
+library(stm)
+library(tm)
+
+# Assuming docs is a vector of documents and indigenous is a vector of metadata
+# Make sure docs and indigenous are of the same length
+
+# Create a Corpus from the vector of texts
+corpus <- Corpus(VectorSource(docs))
+
+# Preprocess the text
+corpus <- tm_map(corpus, content_transformer(tolower))
+corpus <- tm_map(corpus, removePunctuation)
+corpus <- tm_map(corpus, removeNumbers)
+corpus <- tm_map(corpus, removeWords, stopwords("en"))
+corpus <- tm_map(corpus, stripWhitespace)
+
+# Create a Document-Term Matrix
+dtm <- DocumentTermMatrix(corpus)
+
+# Convert the DTM to a matrix
+word_matrix <- as.matrix(dtm)
+
+# Prepare the metadata
+metadata <- as.vector(unlist(meta))
+metadata <- as.factor(metadata)
+
+processed <- textProcessor(documents = docs,
+                        verbose = TRUE)
+out <- prepDocuments(documents = processed$documents,
+                    vocab = processed$vocab,
+                    meta = meta,
+                    verbose = TRUE)
+
+# Create the stm object
+stm_object <- stm(out$documents, out$vocab, K = 3, prevalence = ~ metadata)
+
+plot(stm_object)
+summary(stm_object)
