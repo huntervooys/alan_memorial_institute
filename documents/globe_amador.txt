@@ -2,6 +2,7 @@
 title: Quebec Judge Says McGill Work Halted to Avoid Irreparable Harm to Mohawk Plaintiffs
 author: Marisela Amador
 publisher: Global News
+date: 11/01/2022
 URL: https://globalnews.ca/news/9242445/quebec-judge-says-mcgill-work-halted-to-avoid-irreparable-harm-to-mohawk-plaintiffs/
 summary: This article reports on a Quebec judge's decision to halt work at McGill to prevent potential irreparable harm to Mohawk plaintiffs.
 tags:  news, corporate

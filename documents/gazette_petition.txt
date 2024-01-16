@@ -2,6 +2,7 @@
 title: Mohawk Mothers Want Former Montreal Hospital Site Searched for Unmarked Graves
 author: Montreal Gazette
 publisher: Montreal Gazette
+date: 05/30/2023
 URL: https://montrealgazette.com/news/local-news/mohawk-mothers-want-former-montreal-hospital-site-searched-for-unmarked-graves
 summary: This article discusses a petition from Ellen Atkin, who wants the former Montreal hospital site to be searched for unmarked graves.
 tags:  news

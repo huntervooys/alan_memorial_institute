@@ -2,6 +2,7 @@
 title: Montreal Unmarked Graves Search by Mohawk Mothers
 author: amanda jelowicki
 publisher: global news
+date: 04/20/2023
 URL: https://globalnews.ca/news/9639569/montreal-unmarked-graves-search-mohawk-mothers/
 summary: This article discusses the search for unmarked graves in Montreal conducted by Mohawk mothers.
 tags:  news, corporate

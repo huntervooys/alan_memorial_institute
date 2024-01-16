@@ -2,6 +2,7 @@
 title: Concern About Recent Actions
 author: Christopher Manfredi
 publisher: McGill University
+date: N/A
 URL: concern_about_recent_actions.txt
 summary: This is an email from McGill University's Provost and Vice-Principal (Academic), Christopher Manfredi, addressing recent actions and concerns.
 tags:  mcgill

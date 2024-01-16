@@ -2,6 +2,7 @@
 title: archeological-work-at-the-new-vic-site-dominates-mcgill-senate-meeting
 author: Lily_Cason
 publisher: the tribune
+date: 10/25/2022
 URL: https://www.thetribune.ca/news/archeological-work-at-the-new-vic-site-dominates-mcgill-senate-meeting25102022/
 summary: During the university’s second Senate meeting of the academic year on Oct. 19, senators discussed the Kanien’kehá:ka Kahnistensera’s (Mohawk Mothers) legal dispute with McGill over the New Vic Project and the university’s COVID-19 protocols.
 tags:  news,  student

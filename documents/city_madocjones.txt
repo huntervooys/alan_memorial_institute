@@ -2,6 +2,7 @@
 title: Mohawk Mothers Settlement at Allan Memorial Institute
 author: gareth madoc-jones
 publisher: city news
+date: 04/20/2023
 URL: https://montreal.citynews.ca/2023/04/20/mohawk-mothers-settlement-allan-memorial-institute/
 summary: This article discusses the settlement reached by Mohawk mothers at the Allan Memorial Institute.
 tags: news, corporate

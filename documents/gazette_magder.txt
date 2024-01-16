@@ -2,6 +2,7 @@
 title: Our Children Are Buried on These Grounds, Marchers at Old Royal Vic Site Say
 author: Jason Magder
 publisher: Montreal Gazette
+date: 11/10/2021
 URL: https://montrealgazette.com/news/local-news/our-children-are-buried-on-these-grounds-marchers-at-old-royal-vic-site-say
 summary: This article reports on a march at the old Royal Vic site, where participants claim their children are buried.
 tags:  news, montreal

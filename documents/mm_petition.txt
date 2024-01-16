@@ -2,6 +2,7 @@
 title: Petition to Investigate Unmarked Graves at McGill University
 author: Mohawk Mothers
 publisher: Change.org
+date: 11/03/2021
 URL: https://www.change.org/p/mcgill-university-investigate-unmarked-graves-at-mcgill-university
 summary: This is a petition initiated by Ellen Atkin under the auspices of the Mohawk Mothers to investigate unmarked graves at McGill University.
 tags:  indigenous

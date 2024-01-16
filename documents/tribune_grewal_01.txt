@@ -2,6 +2,7 @@
 title: mcgill-reports-nine-potential-grave-zones-at-new-vic-site-a-week-after-security-verbally-assaulted-mohawk-mothers
 author: jasjot grewal
 publisher: the tribune
+date: 09/04/2023
 URL: https://www.thetribune.ca/news/mcgill-reports-nine-potential-grave-zones-at-new-vic-site-a-week-after-security-verbally-assaulted-mohawk-mothers-04092023/
 summary: summary
 tags:  news, student

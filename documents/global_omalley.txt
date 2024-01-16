@@ -2,6 +2,7 @@
 title: Mohawk Mothers Investigation Unmarked Graves at McGill University
 author: Olivia O'Malley
 publisher: global news
+date: 10/20/2021
 URL: https://globalnews.ca/news/8284327/mohawk-mothers-investigation-unmarked-graves-mcgill-university/
 summary: This article discusses the investigation led by Mohawk mothers into the unmarked graves at McGill University.
 tags:  news, corporate

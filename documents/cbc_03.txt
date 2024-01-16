@@ -2,6 +2,7 @@
 title: Old Royal Victoria Hospital Project Remains
 author: cbc news
 publisher: cbc
+date: 05/24/2022
 URL: https://www.cbc.ca/news/canada/montreal/old-royal-victoria-hospital-project-remains-1.6463685
 summary: This article discusses the ongoing project at the old Royal Victoria Hospital and its current status.
 tags: news, corporate

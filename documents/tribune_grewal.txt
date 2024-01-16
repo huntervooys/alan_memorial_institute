@@ -2,6 +2,7 @@
 title: historic-win-for-mohawk-mothers-in-lawsuit-against-mcgill-over-new-vic-project
 author: jasjot_grewal
 publisher: the tribune
+date: 11/01/2022
 URL: https://www.thetribune.ca/news/historic-win-for-mohawk-mothers-in-lawsuit-against-mcgill-over-new-vic-project-01112022/
 summary: summary
 tags:  news, student

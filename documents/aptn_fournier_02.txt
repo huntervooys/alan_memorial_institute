@@ -2,6 +2,7 @@
 title: Mohawk Mothers Win Injunction Against McGill at David and Goliath Hearing
 author: emelia fournier
 publisher: aptn news
+date: 10/28/2022
 URL: https://www.aptnnews.ca/national-news/mohawk-mothers-win-injunction-against-mcgill-at-david-and-goliath-hearing/
 summary: This article reports on the victory of Mohawk mothers who won an injunction against McGill University in a significant legal hearing.
 tags:  news, indigenous

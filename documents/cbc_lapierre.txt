@@ -2,6 +2,7 @@
 title: Evidence of Bodies Found at Royal Vic During Dogs Search
 author: Matthew Lapierre
 publisher: CBC
+date: 06/29/2023
 URL: https://www.cbc.ca/news/canada/montreal/royal-vic-bodies-evidence-found-dogs-search-1.6892583
 summary: This article reports on the discovery of evidence of bodies at the Royal Vic site during a search conducted with dogs.
 tags: news, corporate

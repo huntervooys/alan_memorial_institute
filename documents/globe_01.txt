@@ -2,6 +2,7 @@
 title: Mohawk Mothers, McGill Reach Deal to Search for Graves at Site of
 author: globe and mail
 publisher: globe and mail
+date: 04/21/2023
 URL: https://www.theglobeandmail.com/canada/article-mohawk-mothers-mcgill-reach-deal-to-search-for-graves-at-site-of/
 summary: This article reports on the agreement between Mohawk mothers and McGill University to search for graves at a specific site.
 tags:  news, corporate

@@ -2,6 +2,7 @@
 title: arkeos-at-royal-vic
 author: saylor catlin, emma bainbridge
 publisher: mcgill daily
+date: 10/17/2022
 URL: https://www.mcgilldaily.com/2022/10/arkeos-at-royal-vic/
 summary: This is a brief summary of the document.
 tags:  news, student

@@ -2,6 +2,7 @@
 title: Mohawk Mothers Win Superior Court Judgement
 author: Mohawk Mothers
 publisher: Mohawk Mothers
+date: 11/21/2023
 URL: https://www.mohawkmothers.ca/recent-updates/mohawk-mothers-win-superior-court-judgement
 summary: This press release discusses the Superior Court judgement in favor of the Mohawk Mothers.
 tags:  indigenous

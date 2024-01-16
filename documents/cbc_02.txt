@@ -2,6 +2,7 @@
 title: Mohawk Mothers Win Injunction
 author: cbc
 publisher: cbc
+date: 10/28/2022
 URL: https://www.cbc.ca/news/canada/montreal/mohawk-mothers-win-injunction-1.6632734
 summary: This article reports on the victory of Mohawk mothers who won an injunction in a significant legal case.
 tags:  news, corporate

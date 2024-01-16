@@ -2,6 +2,7 @@
 title: McGill's Royal Vic plans prompt call to check for unmarked graves
 author: T'Cha Dunlevy
 publisher: montreal gazette
+date: 10/20/2021
 URL: https://montrealgazette.com/news/local-news/mcgills-royal-vic-plans-prompt-call-to-check-for-unmarked-graves
 summary: This article discusses the call for McGill University to check for unmarked graves at the Royal Victoria Hospital site, in light of their redevelopment plans.
 tags:  news

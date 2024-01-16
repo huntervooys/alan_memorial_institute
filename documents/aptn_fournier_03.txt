@@ -2,6 +2,7 @@
 title: Archeological Dig at Old Montreal Hospital on Hold by McGill University
 author: Emelia Fournier
 publisher: aptn news
+date: 08/04/2023
 URL: https://www.aptnnews.ca/national-news/archeological-dig-old-montreal-hospital-on-hold-mcgill-university/
 summary: This article reports on the temporary halt of an archeological dig at an old Montreal hospital by McGill University.
 tags:  news, indigenous

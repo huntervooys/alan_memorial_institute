@@ -2,6 +2,7 @@
 title: Mohawk Mothers at Royal Vic Site
 author: cbc
 publisher: cbc
+date: 04/20/2023
 URL: https://www.cbc.ca/news/canada/montreal/mohawk-mothers-royal-vic-site-1.6817301
 summary: This article discusses the involvement of Mohawk mothers at the Royal Vic site.
 tags:  news, corporate

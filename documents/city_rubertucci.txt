@@ -2,6 +2,7 @@
 title: Mohawk Mother at Montreal's Allan Memorial Institute
 author: alyssia rubertucci
 publisher: city news
+date: 11/02/2022
 URL: https://montreal.citynews.ca/2022/11/02/mohawk-mother-montreals-allan-memorial-institute/
 summary: This article discusses the involvement of a Mohawk mother at Montreal's Allan Memorial Institute.
 tags: news, corporate

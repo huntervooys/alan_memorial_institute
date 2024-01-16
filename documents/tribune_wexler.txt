@@ -2,6 +2,7 @@
 title: kahentinethas-challenge-to-mcgills-new-vic-project
 author: benjamin wexler
 publisher: the tribune
+date: 11/02/2021
 URL: https://www.thetribune.ca/news/kahentinethas-challenge-to-mcgills-new-vic-project02112021/
 tags:  news, student
 ---

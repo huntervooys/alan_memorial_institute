@@ -2,6 +2,7 @@
 title: Royal Victoria Hospital Plans Approval
 author: Phil Carpenter
 publisher: Global News
+date: 05/24/2022
 URL: https://globalnews.ca/news/8866520/royal-victoria-hospital-plans-approval/
 summary: This article discusses the approval of the plans for the Royal Victoria Hospital.
 tags:  news, corporate

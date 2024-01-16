@@ -2,6 +2,7 @@
 title: dogs-find-evidence-of-human-remains-at-site-of-montreal-s-old-royal-victoria-hospital
 author: joe lofaro
 publisher: ctv news
+date: 06/29/2023
 URL: https://montreal.ctvnews.ca/search-dogs-find-evidence-of-human-remains-at-site-of-montreal-s-old-royal-victoria-hospital-1.6462031
 tags:  news, corporate
 ---

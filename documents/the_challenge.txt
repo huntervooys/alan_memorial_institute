@@ -2,6 +2,7 @@
 title: The Challenge
 author: Mohawk Mothers
 publisher: Mohawk Mothers
+date: 10/27/2022
 URL: https://www.mohawkmothers.ca/the-challenge
 tags:  indigenous
 ---

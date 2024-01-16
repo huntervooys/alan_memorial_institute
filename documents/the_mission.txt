@@ -2,6 +2,7 @@
 title: The Mission
 author: Mohawk Mothers
 publisher: Mohawk Mothers
+date: N/A
 URL: https://www.mohawkmothers.ca/the-mission
 summary: The Mohawk Mothers' goals and concerns
 tags:  indigenous

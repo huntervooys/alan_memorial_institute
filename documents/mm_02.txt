@@ -2,6 +2,7 @@
 title: Historic Human Remains Detection Dogs Detect Scent of Human Remains on the Old Royal Victoria Hospital Site in Montreal
 author: Mohawk Mothers
 publisher: Mohawk Mothers
+date: 06/09/2023
 URL: https://www.mohawkmothers.ca/recent-updates/historic-human-remains-detection-dogs-detect-scent-of-human-remains-on-the-old-royal-victoria-hospital-site-in-montreal
 summary: This press release discusses the detection of the scent of human remains at the old Royal Victoria Hospital site in Montreal by historic human remains detection dogs. The linked report was written by Kim Cooper.
 tags:  indigenous
