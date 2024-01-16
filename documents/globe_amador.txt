@@ -4,9 +4,7 @@ author: Marisela Amador
 publisher: Global News
 URL: https://globalnews.ca/news/9242445/quebec-judge-says-mcgill-work-halted-to-avoid-irreparable-harm-to-mohawk-plaintiffs/
 summary: This article reports on a Quebec judge's decision to halt work at McGill to prevent potential irreparable harm to Mohawk plaintiffs.
-tags: 
-    - news
-    - corporate
+tags:  news, corporate
 ---
 McGill University said Tuesday it will begin discussions with an Indigenous group that has raised concerns about unmarked graves after a court ruled that excavation work on a university expansion project would cause “irreparable harm.”
 Justice Gregory Moore last week ordered a halt to any excavation at the former site of the Royal Victoria Hospital until the parties hold discussions to develop an archeological plan to search for graves.

@@ -4,9 +4,7 @@ author: Eve Cable
 publisher: Eastern Door
 URL: https://easterndoor.com/2023/06/05/mohawk-mothers-join-fight-to-protect-irish-gravesite/
 summary: This article discusses the involvement of the Mohawk Mothers in the fight to protect the Black Rock gravesite.
-tags: 
-    - indigenous
-    - news
+tags:  indigenous, news
 ---
 After a triumph in court against some of Quebec and Canada’s biggest institutional bodies, the Kanien’kehá:ka Kahnistensera (Mohawk Mothers) are now taking on another political fight, this time in regards to Montreal’s Irish Famine Monument Park, which sits atop a cemetery that the group says houses Indigenous ancestors. 
 Recently, the remains of more than a dozen individuals were removed to insert a pylon for the new Reseau express metropolitain (REM) train system, leading to growing concerns about future developments at the site

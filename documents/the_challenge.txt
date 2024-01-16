@@ -3,10 +3,9 @@ title: The Challenge
 author: Mohawk Mothers
 publisher: Mohawk Mothers
 URL: https://www.mohawkmothers.ca/the-challenge
-summary: 
-tags: 
-    - indigenous
+tags:  indigenous
 ---
+
 On October 27, 2022, the Mohawk Mothers won an important battle the first-ever injunction obtained by self-represented Indigenous peoples in a Canadian Court. Following their own Indigenous legal system, the Kaianerehkó:wa, the Mohawk Mothers reminded the Quebec Superior Court of their obligations vis-à-vis Indigenous peoples and called upon the Court to respect their own laws protecting Indigenous peoples from mistreatment, including extermination policies. In court, the Mohawk Mothers faced numerous adversaries, including top lawyers from McGill University, the Société Québécoise des Infrastructures (SQI), the McGill University Health Center (MUHC), the Royal Victoria Hospital, the City of Montreal, the Attorney General of Canada, and the Attorney General of Quebec.
 The injunction issued by Justice Gregory Moore was issued on the basis of the plaintiffs’ (Mohawk Mothers) concerns that Indigenous children were used as test subjects in medical experiments at the Royal Victoria Hospital, and were potentially buried on the site slated for redevelopment. These concerns were based on both archival evidence and witness accounts, including a first-hand account of Lana Ponting, 81, a survivor of the CIA-funded MKULTRA mind control experiments. The Mohawk Mothers argued that the land set for redevelopment was the site of the precolonial Iroquoian village of Tekanontak (Mount Royal) and was used as a burial site before the arrival of Europeans. The necessity of using appropriate archaeological means to preserve the history of Iroquoian peoples cannot be a topic of debate.
 Throughout the hearings on October 26th and 27th, defendants and promoters of the redevelopment project used an array of technical and legal arguments to convey the following

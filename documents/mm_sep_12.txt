@@ -4,8 +4,7 @@ author: Mohawk Mothers
 publisher: Mohawk Mothers
 URL: https://static1.squarespace.com/static/6449525c9a1ab06f2f1830cc/t/6500d6108e3845491c0ecf53/1694553616508/Kahnistensera+Press+Release+September+12%2C+2023%5B36901%5D.pdf
 summary: This is a press release issued by the Mohawk Mothers on September 12, 2023.
-tags: 
-    - indigenous
+tags:  indigenous
 ---
 The Mohawk Mothers, also known as the Kahnistensera, will hold a press conference at the corner of avenue des Pins and Doctor Penfield on September 12, 2023, at 2:30pm.
 The Kahnistensera filed an Emergency Motion to halt drilling and excavation at the Royal Victoria Hospital site, which will be heard on Thursday September 14 at the Superior Court in Montreal. The Emergency Motion details breaches to the Settlement Agreement by McGIll and the SQI that the Mohawk Mothers repeatedly raised in direct talks about significant concerns with the way they are handling the archaeological investigation ordered by the Quebec Superior Court to search for unmarked graves of victims of medical experiments.

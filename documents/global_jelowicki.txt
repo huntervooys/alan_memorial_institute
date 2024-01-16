@@ -4,9 +4,7 @@ author: amanda jelowicki
 publisher: global news
 URL: https://globalnews.ca/news/9639569/montreal-unmarked-graves-search-mohawk-mothers/
 summary: This article discusses the search for unmarked graves in Montreal conducted by Mohawk mothers.
-tags: 
-    - news
-    - corporate
+tags:  news, corporate
 ---
 Archeological work on the site of the former Royal Victoria Hospital and Allan Memorial Institute has begun, with experts mapping the area to search for the remains of Indigenous children in Montreal.
 The Kanien’keha:ka Kahnistensera, also known as the Mohawk Mothers, struck an agreement on April 6 with McGill University, the Société québécoise des infrastructures (SQI), the MUHC, the City of Montreal and the Attorney General of Canada to allow for archeological work to be conducted.

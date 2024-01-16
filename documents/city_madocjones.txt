@@ -4,9 +4,7 @@ author: gareth madoc-jones
 publisher: city news
 URL: https://montreal.citynews.ca/2023/04/20/mohawk-mothers-settlement-allan-memorial-institute/
 summary: This article discusses the settlement reached by Mohawk mothers at the Allan Memorial Institute.
-tags: 
-    - news
-    - corporate
+tags: news, corporate
 ---
 A settlement agreement was reached Thursday between the Mohawk Mothers, an Indigenous group, and Montreal’s McGill university.
 “It entails an archeological plan. And it’s for the archeology, it’s not for either side,” said Kwetiio, one of the Mohawk Mothers.

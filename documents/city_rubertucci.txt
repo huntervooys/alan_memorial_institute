@@ -4,9 +4,7 @@ author: alyssia rubertucci
 publisher: city news
 URL: https://montreal.citynews.ca/2022/11/02/mohawk-mother-montreals-allan-memorial-institute/
 summary: This article discusses the involvement of a Mohawk mother at Montreal's Allan Memorial Institute.
-tags: 
-    - news
-    - corporate
+tags: news, corporate
 ---
 A group of elders from Kahnawake – south of Montreal- known as the Mohawk mothers, were successful in getting a Quebec judge to stop excavation work at an expansion project at Montreal’s Allan Memorial Institute and the old Royal Victoria hospital.
 The group has alleged that the bodies of Indigenous patients of the institute from the 1950s and 60s are buried at the site scheduled to be redeveloped.

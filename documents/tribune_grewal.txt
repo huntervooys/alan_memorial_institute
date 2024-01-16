@@ -4,9 +4,7 @@ author: jasjot_grewal
 publisher: the tribune
 URL: https://www.thetribune.ca/news/historic-win-for-mohawk-mothers-in-lawsuit-against-mcgill-over-new-vic-project-01112022/
 summary: summary
-tags: 
-    - news
-    - student
+tags:  news, student
 ---
 A Quebec Superior Court judge, Justice Gregory Moore, granted the Kanien’kehà:ka Kahnistensera (Mohawk Mothers) an interlocutory injunction on Oct. 27, after a two-day court hearing for the Mothers’ ongoing lawsuit against McGill over potential unmarked Indigenous graves on McGill’s New Vic site. This injunction will effectively halt all archeological work for approximately four months. 
 An interlocutory injunction is a court order that prevents a party from performing certain actions until the final decision in a case has been made. In this case, McGill is still allowed to perform maintenance work on the site, but is prohibited from conducting any further excavation. Arkéos, the archeological firm hired by McGill, had begun excavation without the Mothers’ consent on Oct. 12.

@@ -4,8 +4,7 @@ author: frédéric tomesco
 publisher: montreal gazette
 URL: https://montrealgazette.com/news/quebec/its-empty-montreal-mohawk-womens-group-slams-popes-apology
 summary: 
-tags: 
-    - news
+tags:  news
 ---
 Pope Francis’s landmark apology over residential schools drew sharp criticism from Indigenous spokespeople in Montreal — with one Mohawk women’s group even calling for the cross on Mount Royal to be taken down as an act of contrition.
 On Wednesday, two days after apologizing in Edmonton to Indigenous Peoples for the role the Roman Catholic Church played in Canada’s residential school system, the pontiff expressed his “deep shame and sorrow” and sought forgiveness for “the wrong done by so many Christians” during an address in Quebec City. He has described the Canadian trip as his “penitential” journey.

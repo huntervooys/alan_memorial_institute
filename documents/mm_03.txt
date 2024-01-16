@@ -4,8 +4,7 @@ author: Mohawk Mothers
 publisher: Mohawk Mothers
 URL: https://www.mohawkmothers.ca/recent-updates/mohawk-mothers-win-superior-court-judgement
 summary: This press release discusses the Superior Court judgement in favor of the Mohawk Mothers.
-tags: 
-    - indigenous
+tags:  indigenous
 ---
 McGill and SQI Ordered to Comply with Settlement Agreement and Reinstate Expert Panel
 After obtaining, one year ago to the day, a precedent-setting injunction halting excavation at the former Royal Victoria Hospital site to search for the unmarked graves of victims of medical experiments, the Mohawk Mothers, also known as the Kahnistensera, have won their bid for a safeguard order they presented at the Superior Court of Quebec on October 27, 2023.

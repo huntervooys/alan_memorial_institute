@@ -4,8 +4,7 @@ author: Mohawk Mothers
 publisher: Mohawk Mothers
 URL: https://www.mohawkmothers.ca/recent-updates/5mrgjgp3uuxxrc62ns37lck7pswger
 summary: This press release discusses the recent tone of discourse, including several incidents and reports related to the search for unmarked graves and the treatment of Mohawk Mothers.
-tags: 
-    - indigenous
+tags:  indigenous
 ---
 The Kahnistensera (Mohawk Mothers) are deeply concerned about McGill and the Société Québécoise des Infrastructures’ (SQI) recent actions in the archaeological search for unmarked burials at the New Vic site.
 Despite publicly stating their support for the process and commitment to reconciliation, McGill and SQI have unilaterally deemed the panel’s mandate terminated, without following through on several recommendations which they agreed to be bound by in the Settlement Agreement signed in April 2023 and homologated in the Quebec Superior Court.

@@ -4,9 +4,7 @@ author: Olivia O'Malley
 publisher: global news
 URL: https://globalnews.ca/news/8284327/mohawk-mothers-investigation-unmarked-graves-mcgill-university/
 summary: This article discusses the investigation led by Mohawk mothers into the unmarked graves at McGill University.
-tags: 
-    - news
-    - corporate
+tags:  news, corporate
 ---
 Mohawk Mothers suspect there may be unmarked graves on McGill University’s campus.
 The group believes they’re linked to controversial psychological experiments conducted there in the 1950s and 1960s that received funding from the Canadian government and the American Central Intelligence Agency (CIA).

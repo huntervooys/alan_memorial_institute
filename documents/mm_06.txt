@@ -4,8 +4,7 @@ author: Mohawk Mothers
 publisher: Mohawk Mothers
 URL: https://www.mohawkmothers.ca/recent-updates/mohawk-mothers-return-to-court-september-14-as-sqi-drill-holes-at-royal-victoria-hospital
 summary: This press release discusses the return of the Mohawk Mothers to court on September 14, as the SQI drills holes at the Royal Victoria Hospital.
-tags: 
-    - indigenous
+tags:  indigenous
 ---
 The Mohawk Mothers, also known as the Kahnistensera, held a press conference at the corner of avenue des Pins and Doctor Penfield on September 12, 2023, at 2:30pm. 
 The Kahnistensera filed an Emergency Motion to halt drilling and excavation at the Royal Victoria Hospital site, which will be heard on Thursday September 14 at the Superior Court in Montreal. The Emergency Motion details breaches to the Settlement Agreement by McGill and the SQI that the Mohawk Mothers repeatedly raised in direct talks about significant concerns with the way they are handling the archaeological investigation ordered by the Quebec Superior Court to search for unmarked graves of victims of medical experiments.

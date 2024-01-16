@@ -3,11 +3,9 @@ title: cadaver-dogs-sniff-out-potential-human-remains-near-old-royal-victoria-ho
 author: Emelia Fournier
 publisher: aptn news
 URL: https://www.aptnnews.ca/national-news/cadaver-dogs-sniff-out-potential-human-remains-near-old-royal-victoria-hospital-site/
-summary: 
-tags: 
-    - news
-    - indigenous
+tags:  news, indigenous
 ---
+
 Cadaver dogs have detected potential human remains on McGill University grounds where a group called the Mohawk Mothers believe unmarked graves exist.
 On June 9, 2023, three cadaver dog teams from the Ottawa Valley Search and Rescue Dog Association scoured the grounds under the supervision of archeologists, dog handlers and two Kanieke’haka cultural monitors.
 All dogs signaled that they detected human remains in front of the Hersey Pavillion, which was the site of the old Royal Victoria Hospital’s nurses’ sleeping quarters.
@@ -16,7 +14,7 @@ This was part of the archeological procedures mandated in a settlement agreement
 The Kanistensera allege that unmarked graves of victims of the MK-ULTRA mind control experiments from the 1950s and 1960s may be found on the grounds of the Royal Victoria Hospital and the old Allan Memorial institute, where McGill plans to build the New Vic project, a renovated facility.
 Since the site was detected, archeological procedures have been halted and the parties involved in the agreement have returned to the negotiating table to determine how to handle these new developments.
 McGill has been attempting to go forward with the New Vic project, which would revamp the old Royal Victoria site – which neighbours the AMI where CIA- and Canadian-funded psychiatric experiments took place from 1957 to 1964. 
-The Kahnistansera allege that there is a strong possibility that bodies of Indigenous children who they say were victims of botched psychiatric experiments are buried on the grounds of the Allan Memorial Institute (AMI), a former psychiatric hospital which is owned by McGill.   
+The Kahnistansera allege that there is a strong possibility that bodies of Indigenous children who they say were victims of botched psychiatric experiments are buried on the grounds of the Allan Memorial Institute (AMI), a former psychiatric hospital which is owned by McGill.
 After a settlement agreement was reached in April, archeological works began to determine whether human remains were present on-site.
 At the case management hearing June 29, the Kanistensera and the special interlocutor on unmarked graves’ legal representation, Julian Falconer, stated that the settlement agreement was not sufficient to address these new developments.
 Section 17 of the agreement states that if a discovery is made, “McGill, SQI and the Kanien’keha:ka Kahnistensera will seek the advice of the Panel [of archeologists] as to how to move forward.”

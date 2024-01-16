@@ -4,9 +4,7 @@ author: steve bonspiel
 publisher: eastern door
 URL: https://easterndoor.com/2022/11/07/mohawk-mothers-blazing-a-trail/
 summary: This article highlights the efforts of Mohawk mothers in leading community initiatives and advocating for indigenous rights.
-tags: 
-    - news
-    - indigenous
+tags:  news, indigenous
 ---
 To challenge a giant head on is one thing. To do it representing yourselves in a foreign system, with no lawyers and nothing but a hunch, powerful protective instincts and bravery, is quite another.
 But that’s what the Kahnistensera Kanien’kehá:ka (Mohawk Mothers) group has done, forcing the McGill University dig at the former Royal Victoria Hospital to stop after a judge ruled more time was needed to look into allegations from the istas.

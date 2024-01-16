@@ -4,9 +4,7 @@ author: jasjot grewal
 publisher: the tribune
 URL: https://www.thetribune.ca/news/mcgill-reports-nine-potential-grave-zones-at-new-vic-site-a-week-after-security-verbally-assaulted-mohawk-mothers-04092023/
 summary: summary
-tags: 
-    - news
-    - student
+tags:  news, student
 ---
 On July 25, the Kanien’kehá:ka Kahnistensera (Mohawk Mothers) were verbally assaulted by security personnel on McGill’s New Vic project site. A week later, on Aug. 3, McGill issued a comprehensive press release about the ongoing investigation into the New Vic project site, announcing that nine anomalies were found during archaeological work. However, the Mohawk Mothers soon released their own statement, alleging that McGill and the Société québécoise des infrastructures (SQI) had failed to report all the findings on the site and isolated the Mothers from the investigation. 
 The Mothers have been present for the archaeological excavation on the New Vic site, alongside archaeologists and security personnel hired by SQI as stipulated by their settlement agreement with McGill, the SQI, the Royal Victoria Hospital (RVH), the City of Montreal, and the Attorney General of Canada. Court-appointed Indigenous cultural monitors—who are responsible for performing cultural ceremonies and ensuring that excavation is completed in accordance with Indigenous protocols—have also been present on the site.

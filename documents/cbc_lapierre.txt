@@ -4,9 +4,7 @@ author: Matthew Lapierre
 publisher: CBC
 URL: https://www.cbc.ca/news/canada/montreal/royal-vic-bodies-evidence-found-dogs-search-1.6892583
 summary: This article reports on the discovery of evidence of bodies at the Royal Vic site during a search conducted with dogs.
-tags: 
-    - news
-    - corporate
+tags: news, corporate
 ---
 Cadaver dogs have identified possible evidence of human remains on the grounds of Montreal's old Royal Victoria Hospital, a sprawling network of now-vacant buildings, some dating back 140 years, on Mount Royal's southern flank.
 The search was conducted as part of an agreement between the Kanien'kehá:ka Kahnistensera, a group known in English as the Mohawk Mothers, and McGill University, to determine if there are unmarked graves in an area the university intends to redevelop, turning the heritage site into a modern academic centre.

@@ -4,9 +4,7 @@ author: Jason Magder
 publisher: Montreal Gazette
 URL: https://montrealgazette.com/news/local-news/our-children-are-buried-on-these-grounds-marchers-at-old-royal-vic-site-say
 summary: This article reports on a march at the old Royal Vic site, where participants claim their children are buried.
-tags: 
-    - news
-    - montreal
+tags:  news, montreal
 ---
 As the sun set and cars lined up for the usual nighttime commute on Pine Ave., a group of protesters held a solemn march.
 Holding candles and with many wearing orange shirts, the marchers began at the top of Peel St., near the entrance to the Allen Memorial Institute, and walked slowly down to Sherbrooke St.

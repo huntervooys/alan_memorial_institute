@@ -4,9 +4,7 @@ author: globe and mail
 publisher: globe and mail
 URL: https://www.theglobeandmail.com/canada/article-mohawk-mothers-mcgill-reach-deal-to-search-for-graves-at-site-of/
 summary: This article reports on the agreement between Mohawk mothers and McGill University to search for graves at a specific site.
-tags: 
-- news 
-- corporate
+tags:  news, corporate
 ---
 McGill University and a group of Indigenous elders have reached a deal to search for the possibility of unmarked graves at the former site of a Montreal hospital, following a court ruling described as precedent setting.
 The Mohawk Mothers allege there are bodies of Indigenous patients buried on and around the old grounds of the Royal Victoria Hospital, which McGill is renovating to expand its campus.
