@@ -8,4 +8,4 @@ output: html_document
 library(stm)
 data <- read.csv("data.csv")
 4. You can also add markdown text between the code chunks to explain what the code does. For example:
-``````
+```
