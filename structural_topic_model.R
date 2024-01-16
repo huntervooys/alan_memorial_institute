@@ -63,7 +63,12 @@ out <- prepDocuments(documents = processed$documents,
                     verbose = TRUE)
 
 # Create the stm object
-stm_object <- stm(out$documents, out$vocab, K = 3, prevalence = ~ metadata)
+documents <- out$documents
+vocab <- out$vocab
+meta <- as.factor(metadata)
+stm_object <- stm(documents, vocab, K = 3, prevalence = ~ meta)
 
 plot(stm_object)
 summary(stm_object)
+
+estimateEffect(meta ~ )
