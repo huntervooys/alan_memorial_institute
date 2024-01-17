@@ -4,8 +4,153 @@ output: html_document
 ---
 
 ```{r}
-# This is a code chunk
+library(lubridate)
+library(dplyr)
+library(purrr)
+library(yaml)
 library(stm)
-data <- read.csv("data.csv")
-4. You can also add markdown text between the code chunks to explain what the code does. For example:
+library(tidytext)
+
+set.seed(117)
 ```
+
+
+```{r}
+files <- list.files("documents", pattern = "*.txt", full.names = TRUE)
+
+process_file <- function(file) {
+  content <- readLines(file)
+  content <- gsub("@", "_", content)
+  fm <- yaml::yaml.load(content[1:8])
+
+  indigenous <- if ("indigenous" %in% fm$tags) {"indigenous"} else {"non-indigenous"}
+  corporate <- if ("news, corporate" %in% fm$tags) {"corporate"} else {"non-corporate"}
+  student <- if ("news, student" %in% fm$tags) {"student"} else {"non-student"}
+
+  date <- mdy(fm$date)
+
+  publisher <- fm$publisher
+
+  if (length(content) >= 10) {
+    sentences <- content[10:length(content)]
+    data.frame(
+      date = rep(date, length(sentences)),
+      indigenous = rep(indigenous, length(sentences)),
+      corporate = rep(corporate, length(sentences)),
+      student = rep(student, length(sentences)),
+      publisher = rep(publisher, length(sentences)),
+      sentence = sentences
+    )
+  } else {
+    NULL
+  }
+}
+
+```
+
+```{r clean_and_import_data}
+
+meta <- map_dfr(files, process_file)
+
+meta$date <- as.numeric(meta$date)
+meta$publisher <- tolower(meta$publisher)
+meta <- meta |>
+  filter(!is.na(date)) |> 
+  unnest_sentences(sentence, sentence)
+
+meta$indigenous <- factor(meta$indigenous)
+meta$corporate <- factor(meta$corporate)
+meta$student <- factor(meta$student)
+meta$publisher <- factor(meta$publisher)
+
+```
+
+
+```{r}
+
+custom_stop <- c("indigenous",
+               "_mcgill",
+               "_mowhawkmothers",
+               "mothers",
+               "mohawk",
+               "_rvh",
+               "Kahentinetha",
+               "kahnistensera",
+               "kwetiio",
+               "victoria",
+               "_sqi")
+
+```
+
+
+```{r}
+
+temp <- textProcessor(documents = meta$sentence,
+              metadata = meta,
+              ucp = TRUE,
+              onlycharacter = TRUE,
+              customstopwords = custom_stop,
+              language = "en")
+docs <- temp$documents
+vocab <- temp$vocab
+meta <- temp$meta
+
+temp <- prepDocuments(documents = docs,
+                     vocab = vocab,
+                     meta = meta,
+                     lower.thresh = 1,
+                     verbose = TRUE) ## lower and upper thresh not set
+docs <- temp$documents
+meta <- temp$meta
+vocab <- temp$vocab
+
+rm(files, temp, custom_stop, process_file)
+
+```
+
+
+```{r}
+
+model <- stm(documents = docs, vocab = vocab, K = 9, 
+             prevalence = ~ s(date) + indigenous + corporate + student, data = meta)
+
+```
+
+```{r}
+
+estimate <- estimateEffect(formula = 1:9 ~ s(date) + indigenous + corporate + student,
+               stmobj = model,
+               metadata = meta,
+               documents = docs)
+```
+
+
+```{r}
+
+estimate |> 
+  tidy() |> 
+  filter(term != "(Intercept)", p.value <= 0.001) |> 
+  ggplot(aes(x = statistic, y = statistic)) +
+  geom_point()
+
+large_effects <- estimate |> 
+  tidy() |> 
+  filter(term != "(Intercept)", p.value <= 0.001)
+
+large_effects |> 
+  arrange(statistic)
+
+```
+
+```{r}
+findThoughts(model, texts = meta$sentence, n = 3, meta = meta)
+```
+
+
+```{r}
+labelTopics(model, topics = c(4,8,9,5), n = 5)
+cloud(model, topic = 8, type = "model")
+cloud(model, topic = 8, type = "documents", documents = docs)
+
+```
+
