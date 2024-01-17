@@ -4,9 +4,9 @@ author: Mohawk Mothers
 publisher: Mohawk Mothers
 date: N/A
 URL: https://www.mohawkmothers.ca/the-site
+mentioned: @McGill
 tags:  indigenous
 ---
-
 Meaning “Two Mountains”, Tekanontak is the traditional Kanien'kehá:ka name of Mount Royal, at the heart of Montreal. It is the location of the Iroquoian village that Jacques Cartier, the first French explorer of the region, witnessed in 1525, and sheltered an estimated 3000 inhabitants in 50 to 70 longhouses. A crucial location from which all the surrounding waterways can be observed, Tekanontak was used to send smoke signals that were picked up in the Adirondaks before making their way down the East Coast, according to Indigenous oral history. It was and remains one the largest burial sites in North America. 
 Mount Royal is the only location with both a Natural and Heritage Site status in Quebec, which means that it is supposed to be protected and controlled by special provincial and municipal rules under Quebec’s Cultural Heritage Act.
 Established in 1893, the Royal Victoria Hospital is part of the @MUHG. Once considered a hospital for the poor, it served many Indigenous and Inuit patients. The hospital closed and moved to a new site in 2015, in what was both the biggest relocation and the biggest financial fraud in Canadian history.
