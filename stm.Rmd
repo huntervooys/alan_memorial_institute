@@ -4,9 +4,7 @@ output: html_document
 ---
 
 ```{r}
-library(lubridate)
-library(dplyr)
-library(purrr)
+library(tidyverse)
 library(yaml)
 library(stm)
 library(tidytext)
@@ -16,80 +14,62 @@ set.seed(117)
 
 
 ```{r}
-files <- list.files("documents", pattern = "*.txt", full.names = TRUE)
+files <- list.files("data", pattern = "*.txt", full.names = T)
 
-process_file <- function(file) {
-  content <- readLines(file)
-  content <- gsub("@", "_", content)
-  fm <- yaml::yaml.load(content[1:8])
-
+process_files <- function(file){
+  
+  content <- read_lines(file)
+  
+  fm <- yaml.load(content[1:7])
+  
   indigenous <- if ("indigenous" %in% fm$tags) {"indigenous"} else {"non-indigenous"}
   corporate <- if ("news, corporate" %in% fm$tags) {"corporate"} else {"non-corporate"}
   student <- if ("news, student" %in% fm$tags) {"student"} else {"non-student"}
-
-  date <- mdy(fm$date)
-
-  publisher <- fm$publisher
-
-  if (length(content) >= 10) {
-    sentences <- content[10:length(content)]
-    data.frame(
-      date = rep(date, length(sentences)),
-      indigenous = rep(indigenous, length(sentences)),
-      corporate = rep(corporate, length(sentences)),
-      student = rep(student, length(sentences)),
-      publisher = rep(publisher, length(sentences)),
-      sentence = sentences
-    )
-  } else {
-    NULL
-  }
+  mcgill <- if ("mcgill" %in% fm$tags) {"mcgill"} else {"non-mcgill"}
+  date <- 
+  
+  content <- content[8:length(content)]
+  
+  data_frame(file_name = rep(file, length(content)),
+    indigenous = rep(indigenous, length(content)),
+    corporate = rep(corporate, length(content)),
+    student = rep(student, length(content)),
+    mcgill = rep(mcgill, length(content)),
+    sentences = content)
+  
 }
+
+meta <- data_frame(file_name = c(), indigenous = c(), corporate = c(), student = c(), mcgill = c(), sentences = c())
+
+for (file in files){
+  file <- process_files(file)
+  meta <- rbind(meta, file)
+}
+
+rm(file, files, process_files)
 
 ```
 
+
 ```{r clean_and_import_data}
-
-meta <- map_dfr(files, process_file)
-
-meta$date <- as.numeric(meta$date)
-meta$publisher <- tolower(meta$publisher)
-meta <- meta |>
-  filter(!is.na(date)) |> 
-  unnest_sentences(sentence, sentence)
 
 meta$indigenous <- factor(meta$indigenous)
 meta$corporate <- factor(meta$corporate)
 meta$student <- factor(meta$student)
-meta$publisher <- factor(meta$publisher)
+meta$mcgill <- factor(meta$mcgill)
 
 ```
 
 
 ```{r}
 
-custom_stop <- c("indigenous",
-               "_mcgill",
-               "_mowhawkmothers",
-               "mothers",
-               "mohawk",
-               "_rvh",
-               "Kahentinetha",
-               "kahnistensera",
-               "kwetiio",
-               "victoria",
-               "_sqi")
-
-```
-
-
-```{r}
-
-temp <- textProcessor(documents = meta$sentence,
+temp <- textProcessor(documents = meta$sentences,
               metadata = meta,
               ucp = TRUE,
               onlycharacter = TRUE,
-              customstopwords = custom_stop,
+              removestopwords = TRUE,
+              removepunctuation = TRUE,
+              removenumbers = TRUE,
               language = "en")
 docs <- temp$documents
 vocab <- temp$vocab
@@ -104,21 +84,32 @@ docs <- temp$documents
 meta <- temp$meta
 vocab <- temp$vocab
 
-rm(files, temp, custom_stop, process_file)
+rm(temp)
 
 ```
+
+
+```{r}
+
+k <- seq(4, 25, 3)
+findK <- searchK(docs, vocab, k)
+
+plot(findK)
+
+```
+
 
 
 ```{r}
 
 model <- stm(documents = docs, vocab = vocab, K = 9, 
-             prevalence = ~ s(date) + indigenous + corporate + student, data = meta)
+             prevalence = ~ indigenous + corporate + student + mcgill, data = meta)
 
 ```
 
 ```{r}
 
-estimate <- estimateEffect(formula = 1:9 ~ s(date) + indigenous + corporate + student,
+estimate <- estimateEffect(formula = 1:9 ~ indigenous + corporate + student + mcgill,
                stmobj = model,
                metadata = meta,
                documents = docs)
@@ -129,28 +120,10 @@ estimate <- estimateEffect(formula = 1:9 ~ s(date) + indigenous + corporate + st
 
 estimate |> 
   tidy() |> 
-  filter(term != "(Intercept)", p.value <= 0.001) |> 
-  ggplot(aes(x = statistic, y = statistic)) +
-  geom_point()
-
-large_effects <- estimate |> 
-  tidy() |> 
-  filter(term != "(Intercept)", p.value <= 0.001)
-
-large_effects |> 
-  arrange(statistic)
+  filter(term != "(Intercept)", p.value <= 0.001) 
 
 ```
 
 ```{r}
 findThoughts(model, texts = meta$sentence, n = 3, meta = meta)
 ```
-
-
-```{r}
-labelTopics(model, topics = c(4,8,9,5), n = 5)
-cloud(model, topic = 8, type = "model")
-cloud(model, topic = 8, type = "documents", documents = docs)
-
-```
-
