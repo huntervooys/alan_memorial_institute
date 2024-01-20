@@ -1,0 +1,14 @@
+---
+title: seven guiding principles
+author: McGill
+publisher: McGill
+URL: https://www.mcgill.ca/newvic/vision/guiding-principles-new-vic
+tags: mcgill
+---
+Deliver a project for Montreal, Quebec and Canada.
+Embrace the challenges of sustainability through research, policy development and collaboration.
+Build an idea factory that attracts, connects and inspires.
+Balance nature, heritage, functionality and sustainable architecture.
+Recognize and honor the Indigenous history of the site.
+Exemplify sustainable mobility and urban integration.
+Enhance views and access to Mount Royal, and Olmsted’s landscape vision for Montreal.

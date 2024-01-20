@@ -3,12 +3,28 @@ title: Historic Human Remains Detection Dogs Detect Scent of Human Remains on th
 author: Mohawk Mothers
 publisher: Mohawk Mothers
 URL: https://www.mohawkmothers.ca/recent-updates/historic-human-remains-detection-dogs-detect-scent-of-human-remains-on-the-old-royal-victoria-hospital-site-in-montreal
-summary: This press release discusses the detection of the scent of human remains at the old Royal Victoria Hospital site in Montreal by historic human remains detection dogs. The linked report was written by Kim Cooper.
-tags: 
-    - indigenous
+tags: indigenous
 ---
 See the attached report from the Ottawa Valley Search and Rescue Dog Association with the details of their June 9, 2023 search of the old Royal Victoria Hospital grounds.
-SQI requested that OVSARDA provide Historical Human Remains Detection Dogs (HHRDDs) to assist in the search for potential unmarked graves on the grounds of the old Royal Victoria Hospital. A portion of the property had been surveyed and HHRDDs had been recommended as a potential tool by a panel of 3 archaeologists (PRELIMINARY REPORT of the mapping mandate,Old Royal-Victoria Hospital site) Specifically, dog teams were tasked to search zones 5, 6, 8, 9, 10 and 15, as identified in the above report.
-Three HHRDD teams were used in the search. All three teams are currently certified in Human Remains Detection by the North American Police Work Dog Association. Each dog searched the entire assigned area once. Specifically, each dog team searched the entirety of Zones 5, 6, 8, 9, 10 and 15.No handler watched any of the other dog teams work. As such, no handler had any knowledge of another team’s results before searching themselves ie the search was ‘blind’ for all.When detecting a target odour, dogs may give alerts and/or a trained Final Response (TFR). An alert is defined by the Scientific Working Group on Dogs and Orthogonal Detection (SWGDOG) as “A characteristic change in ongoing behaviour in response to a trained odour, as interpreted by the handler.” A TFR is defined as “A behaviour that a dog has been trained to exhibit in the presence of a target odour source. During this search, handlers were to record both alerts and TFRs. After all three teams had completed their search, handlers would then compare their results and observations.
-All alerts noted by handlers were worked until they concluded in a TFR.All three dog teams reported a TFR in the same location, +/- 2m. The coordinates for this TFR (red dot on image below) are:
-Given that three separate dog teams indicated the same location independently with a TFR, we are confident that the odour of human remains is in this area.The wind direction, the building wall adjacent to the indications, the presence of an alcove, could suggest that odour is being blown into/contained at the location of the TFRs. Dogs indicate the area of strongest odour, which is not always the location of the source of the odour. The source of the odour could be right where the indications happened or could be further out from the building in an upwind direction. However, the further odour travels on the wind the more it spreads into a wider cone. The proximity of all dogs’ indications suggests that, if odour is being blown into the alcove area, it is not being blown in from a significant distance. We can only guess at what ‘significant’ means in this context, but a reasonable guess would be 10m or less.
+SQI requested that OVSARDA provide Historical Human Remains Detection Dogs (HHRDDs) to assist in the search for potential unmarked graves on the grounds of the old Royal Victoria Hospital. 
+A portion of the property had been surveyed and HHRDDs had been recommended as a potential tool by a panel of 3 archaeologists (PRELIMINARY REPORT of the mapping mandate,Old Royal-Victoria Hospital site) Specifically, dog teams were tasked to search zones 5, 6, 8, 9, 10 and 15, as identified in the above report.
+Three HHRDD teams were used in the search. 
+All three teams are currently certified in Human Remains Detection by the North American Police Work Dog Association. 
+Each dog searched the entire assigned area once. Specifically, each dog team searched the entirety of Zones 5, 6, 8, 9, 10 and 15.
+No handler watched any of the other dog teams work. 
+As such, no handler had any knowledge of another team’s results before searching themselves ie the search was ‘blind’ for all.
+When detecting a target odour, dogs may give alerts and/or a trained Final Response (TFR). 
+An alert is defined by the Scientific Working Group on Dogs and Orthogonal Detection (SWGDOG) as “A characteristic change in ongoing behaviour in response to a trained odour, as interpreted by the handler.” 
+A TFR is defined as “A behaviour that a dog has been trained to exhibit in the presence of a target odour source. 
+During this search, handlers were to record both alerts and TFRs. 
+After all three teams had completed their search, handlers would then compare their results and observations.
+All alerts noted by handlers were worked until they concluded in a TFR.
+All three dog teams reported a TFR in the same location, +/- 2m. 
+The coordinates for this TFR (red dot on image below) are:
+Given that three separate dog teams indicated the same location independently with a TFR, we are confident that the odour of human remains is in this area.
+The wind direction, the building wall adjacent to the indications, the presence of an alcove, could suggest that odour is being blown into/contained at the location of the TFRs. 
+Dogs indicate the area of strongest odour, which is not always the location of the source of the odour. 
+The source of the odour could be right where the indications happened or could be further out from the building in an upwind direction. 
+However, the further odour travels on the wind the more it spreads into a wider cone. 
+The proximity of all dogs’ indications suggests that, if odour is being blown into the alcove area, it is not being blown in from a significant distance. 
+We can only guess at what ‘significant’ means in this context, but a reasonable guess would be 10m or less.

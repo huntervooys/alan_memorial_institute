@@ -3,10 +3,7 @@ title: Mohawk Mothers Investigation Unmarked Graves at McGill University
 author: Olivia O'Malley
 publisher: global news
 URL: https://globalnews.ca/news/8284327/mohawk-mothers-investigation-unmarked-graves-mcgill-university/
-summary: This article discusses the investigation led by Mohawk mothers into the unmarked graves at McGill University.
-tags: 
-    - news
-    - corporate
+tags: news, corporate
 ---
 Mohawk Mothers suspect there may be unmarked graves on McGill University’s campus.
 The group believes they’re linked to controversial psychological experiments conducted there in the 1950s and 1960s that received funding from the Canadian government and the American Central Intelligence Agency (CIA).
@@ -14,9 +11,12 @@ The group believes they’re linked to controversial psychological experiments c
 Mohawk Mothers say they are led to believe this after their recent interview with Lana Ponting, one of the few remaining survivors of Dr. Ewen Cameron’s experimental treatments, including drug-induced comas and intensive shock therapy, at the institute.
 Ponting’s testimony alleges that experiments’ victims were buried in the grounds surrounding the Allan Memorial Institute and that underaged children were victims of these experiments.
 “There was a native girl about the same age that she was,” said Kahentinetha. “And she was 16 at the time, but there were younger ones.”
-Historian and Montreal tour guide Donovan King was approached by survivor Ann Diamond a decade ago. He says her allegations corroborate Ponting’s testimony.
+Historian and Montreal tour guide Donovan King was approached by survivor Ann Diamond a decade ago. 
+He says her allegations corroborate Ponting’s testimony.
 “She said these unmarked graves are a big secret,” said King.
-In a statement to Global News, McGill University spokesperson Cynthia Lee writes: “In 2016, McGill commissioned a study on the archeological potential of the Royal Victoria hospital site. According to this study, it is unlikely that Indigenous remains will be found on the New Vic project site. However, should this be the case, it will be made public immediately.”
+In a statement to Global News, McGill University spokesperson Cynthia Lee writes: “In 2016, McGill commissioned a study on the archeological potential of the Royal Victoria hospital site. 
+According to this study, it is unlikely that Indigenous remains will be found on the New Vic project site. 
+However, should this be the case, it will be made public immediately.”
 Additionally, the Mohawk Mothers insist work on the unceded Mohawk land should be halted until McGill has asked for their permission.
 “This land here, all of it, s Mohawk land,” said Kahentinetha. “And there’s been no record of any transfer of the land from us to anybody else.”
 Their testimony against the New Royal Vic project will be presented in front of Montreal’s office of public consultation on Nov. 10.
